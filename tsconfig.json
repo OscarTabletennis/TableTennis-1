@@ -10,12 +10,12 @@
     "module": "ESNext",
     "skipLibCheck": true,
     "jsx": "react-jsx",
-    "moduleResolution": "bundler",
+    "moduleResolution": "Bundler",
     "resolveJsonModule": true,
     "isolatedModules": true,
     "noEmit": true,
     "strict": true,
-    "baseUrl": ".",
+    "baseUrl": "./",
     "paths": {
       "@/*": [
         "src/*"
